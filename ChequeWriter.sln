@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChequeWriter", "ChequeWriter\ChequeWriter.csproj", "{4AB89576-4AF0-4E99-B355-52D46440DCF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChequeWriter.Tests", "ChequeWriter.Tests\ChequeWriter.Tests.csproj", "{F95FC5F7-D973-4807-AE09-F622BA0D2A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AB89576-4AF0-4E99-B355-52D46440DCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB89576-4AF0-4E99-B355-52D46440DCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB89576-4AF0-4E99-B355-52D46440DCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB89576-4AF0-4E99-B355-52D46440DCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95FC5F7-D973-4807-AE09-F622BA0D2A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95FC5F7-D973-4807-AE09-F622BA0D2A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95FC5F7-D973-4807-AE09-F622BA0D2A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95FC5F7-D973-4807-AE09-F622BA0D2A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
